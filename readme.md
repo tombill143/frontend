@@ -1,9 +1,9 @@
 # Fullstack frontend
 
-This repo is supposed to provide as a boilerplate for setting up routing, authentication and interaction with an api.
+This repo iis being supplied in visual studio code but made in notepad++
 
 The frontend is running here: https://flawless-branch.surge.sh
-The backend is running here: https://tomas-order-site.herokuapp.com/
+The backend is running here: https://cine-mama.herokuapp.com/
 
 The code for the backend api can be found here: https://github.com/behu-kea/tomas-order-site
 
@@ -19,6 +19,8 @@ In the `settings.js`
 - Update the variable `prodApiUrl` to be the url for where the project mentioned above is running in production
 
 To run the project locally click the `Go live` button in the bottom right corner. This will open the project with Liver Server. The url should be http://127.0.0.1:5500/ (depending on the port)
+
+Alternatively, to run the project in notepad++, click run, Google Chrome and you will see the frontend. 
 
 ## Deploying
 
